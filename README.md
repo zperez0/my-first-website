@@ -1,7 +1,7 @@
 # _My Favorite Places_
 
 #### By _**Z Perez**_
-br
+
 #### _A short list of my faviorite places._
 
 ## Technologies Used
